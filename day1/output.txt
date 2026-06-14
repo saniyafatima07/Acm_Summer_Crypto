@@ -1,0 +1,20 @@
+OUTPUT 1:
+3
+Decrypted text: Caesar cipher is one of the earliest and simplest methods of encryption. It works by shifting each letter in the plaintext bY a fixed number of positions in the alphabet. Although it is easy to implement, it provides very little security against modern cryptanalysis techniques. Nevertheless, it remains a useful educational tool for understanding the basic concepts of classical cryptography
+
+OUTPUT 2:
+22
+Decrypted text1: Cryptographhy is a fundamental tool in information security. It helps protect messages from unauthorized access by transforming plain tedt into an unreadable form. Although modern ciphers are much more compled, historical schemes such as the shift cipher remain useful for learning the basics of encryption and cryptanalysis.
+
+OUTPUT 3:
+Decrypted text: THIS IS A SECRET MESSAGE
+
+OUTPUT 4:
+Decrypted text: Cryptography is the science of securing information by transforming it into a form that is difficult to understand without the proper key  Classical ciphers such as the Atbash cipher provide a simple introduction to the concepts of encryption and decryption  Although it offers little practical security  it remains an important educational tool for studying the history and evolution of cryptographic techniques 
+
+OUTPUT 5:
+Encrypted text: RCLLA
+
+OUTPUT 6:
+Decrypted text:CRYPTOGRAPHY IS THE SCIENCE OF SECURING INFORMATION BY TRANSFORMING IT INTO A FORM THAT IS DIFFICULT TO UNDERSTAND WITHOUT THE PROPER KEY CLASSICAL CIPHERS SUCH AS THE AFFINE CIPHER PROVIDE A SIMPLE INTRODUCTION TO THE CONCEPTS OF ENCRYPTION AND DECRYPTION 
+
